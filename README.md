@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Dhananjaya</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Faculty of Computing and Technology, University of Kelaniya**
-
 - 📝 I regularly write articles on [http://techsayura.com/](http://techsayura.com/)
 
 - 💬 Ask me about **Angular, .NET core , React, Node.js, PHP ,VB.net, Arduino**
