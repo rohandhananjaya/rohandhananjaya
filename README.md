@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [http://techsayura.com/](http://techsayura.com/)
 
-- 💬 Ask me about **Angular, .NET core , React, Node.js, PHP ,VB.net, Arduino**
+- 💬 Ask me about **Angular, .NET core, Blazor, React, Node.js, PHP ,VB.net, Arduino**
 
 - 📫 How to reach me **https://twitter.com/RohanDhananjaya**
 
